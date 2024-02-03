@@ -1,7 +1,7 @@
 
 <h1 align= "center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?   font=Righteous&size=35&duration=4999&pause=150&color=ABCE00&center=true&random=false&width=435&lines=Hello+There!+%F0%9F%91%8B;I'm+Aalok" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?   font=Righteous&size=35&duration=4999&pause=150&color=ABCE00&center=true&random=false&width=435&lines=Hello+There!+%F0%9F%91%8B;I'm+Aalok+Bhandari" alt="Typing SVG" />
     </a>
 </h1>
 
@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Firojpaudel&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=20" height="175" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=alokbndry10&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=20" height="175" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alokbndry10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=true&border_radius=15" height="175" alt="languages graph"  />
 </div>
 
