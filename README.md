@@ -35,11 +35,31 @@
 
 ---
 
-## 🎵 Now Playing on Spotify
+## 🎵 My Spotify Playlists
 <div align="center">
   <a href="https://open.spotify.com/user/m3u9wyi7rnboml7olb7zv1iyo">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=m3u9wyi7rnboml7olb7zv1iyo&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+    <img src="https://img.shields.io/badge/🎧%20Follow%20me%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Follow"/>
   </a>
+</div>
+
+<div align="center">
+  
+🎶 **Top Playlist**
+  
+[![Spotify Playlist](https://open.spotify.com/embed/playlist/37i9dQZF1DXcBWIGoYBM5M?utm_source=generator)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
+
+---
+
+🎶 **Chill Vibes**
+  
+[![Spotify Playlist](https://open.spotify.com/embed/playlist/37i9dQZF1DX4WYpdgoIcn6?utm_source=generator)](https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6)
+
+---
+
+🎶 **Your Library**
+  
+[![Spotify User](https://img.shields.io/badge/View%20All%20Playlists-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/m3u9wyi7rnboml7olb7zv1iyo)
+
 </div>
 
 ---
@@ -61,11 +81,4 @@
   <a href="https://open.spotify.com/user/m3u9wyi7rnboml7olb7zv1iyo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="spotify logo" />
   </a>
-</div>
-
----
-
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alokbndry10/alokbndry10/output/snake.svg" alt="Snake animation" />
 </div>
