@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aalok Bhandari</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CF7E9&center=true&width=435&lines=Tech+Enthusiast;BSc+CSIT+Student;NEPSE+Analyst+%26+Trader;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CF7E9&center=true&width=435&lines=Tech+Enthusiast;BSc+CSIT+Student;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 ---
@@ -35,18 +35,10 @@
 
 ---
 
-## 💼 Identity
-<div align="center">
-  <img src="https://img.shields.io/badge/NEPSE-Analyst-2E8B57?style=for-the-badge&logo=chart-bar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stock%20Trader-📈-blue?style=for-the-badge" />
-</div>
-
----
-
 ## 🎵 Now Playing on Spotify
 <div align="center">
   <a href="https://open.spotify.com/user/m3u9wyi7rnboml7olb7zv1iyo">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=m3u9wyi7rnboml7olb7zv1iyo&count=5" alt="Spotify recently played" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=m3u9wyi7rnboml7olb7zv1iyo&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
 </div>
 
