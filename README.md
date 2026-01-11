@@ -87,12 +87,12 @@ const aalok = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alokbndry10&show_icons=true&count_private=true&hide_border=true&title_color=6AD3F7&icon_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" alt="Aalok's GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokbndry10&layout=compact&hide_border=true&title_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alokbndry10&show_icons=true&count_private=true&hide_border=true&title_color=6AD3F7&icon_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Aalok's GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokbndry10&layout=compact&hide_border=true&title_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=alokbndry10&theme=transparent&hide_border=true&stroke=6AD3F7&ring=6AD3F7&fire=FFA500&currStreakLabel=6AD3F7&sideLabels=6AD3F7&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9&background=0d1117" alt="GitHub Streak" />
+  <img width="90%" src="https://streak-stats.demolab.com/?user=alokbndry10&theme=transparent&hide_border=true&stroke=6AD3F7&ring=6AD3F7&fire=FFA500&currStreakLabel=6AD3F7&sideLabels=6AD3F7&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9&background=0d1117" alt="GitHub Streak" />
 </div>
 
 <br/>
