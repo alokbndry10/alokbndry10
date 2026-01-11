@@ -84,61 +84,6 @@ const aalok = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Analytics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alokbndry10&show_icons=true&count_private=true&hide_border=true&title_color=6AD3F7&icon_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Aalok's GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokbndry10&layout=compact&hide_border=true&title_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com/?user=alokbndry10&theme=transparent&hide_border=true&stroke=6AD3F7&ring=6AD3F7&fire=FFA500&currStreakLabel=6AD3F7&sideLabels=6AD3F7&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9&background=0d1117" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=alokbndry10&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alokbndry10&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎵 Vibing To
-
-<div align="center">
-  <a href="https://open.spotify.com/user/m3u9wyi7rnboml7olb7zv1iyo">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=m3u9wyi7rnboml7olb7zv1iyo&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/m3u9wyi7rnboml7olb7zv1iyo">
-    <img src="https://img.shields.io/badge/Follow%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Follow"/>
-  </a>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alokbndry10/alokbndry10/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alokbndry10/alokbndry10/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/alokbndry10/alokbndry10/output/github-snake.svg" />
-  </picture>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🤝 Connect With Me
 
 <div align="center">
