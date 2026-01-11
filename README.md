@@ -46,19 +46,19 @@
   
 🎶 **Top Playlist**
   
-[![Spotify Playlist](https://open.spotify.com/embed/playlist/37i9dQZF1DXcBWIGoYBM5M?utm_source=generator)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
+[![Today's Top Hits](https://img.shields.io/badge/Today's%20Top%20Hits-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
 ---
 
 🎶 **Chill Vibes**
   
-[![Spotify Playlist](https://open.spotify.com/embed/playlist/37i9dQZF1DX4WYpdgoIcn6?utm_source=generator)](https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6)
+[![Chill Hits](https://img.shields.io/badge/Chill%20Hits-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6)
 
 ---
 
 🎶 **Your Library**
   
-[![Spotify User](https://img.shields.io/badge/View%20All%20Playlists-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/m3u9wyi7rnboml7olb7zv1iyo)
+[![View All Playlists](https://img.shields.io/badge/View%20All%20Playlists-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/m3u9wyi7rnboml7olb7zv1iyo)
 
 </div>
 
